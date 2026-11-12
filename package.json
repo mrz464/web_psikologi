@@ -1,0 +1,20 @@
+{
+  "name": "read-daily-web",
+  "version": "1.0.0",
+  "description": "Website Read Daily sebagai Media Pendukung Regulasi Diri dalam Membangun Kebiasaan Membaca pada Siswa SMA/SMK",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "serve": "node server.js"
+  },
+  "keywords": [
+    "bimbingan-konseling",
+    "read-daily",
+    "self-regulated-learning",
+    "reading-habit",
+    "sma-smk"
+  ],
+  "author": "Hurratud Daraini (UIN Raden Intan Lampung)",
+  "license": "ISC"
+}
+
